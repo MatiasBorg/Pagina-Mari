@@ -66,7 +66,7 @@
 <section>
     <h2>Portafolio</h2>
     <div class="portfolio">
-        <a href="proyecto1.html" class="portfolio-item">
+        <a href="https://github.com/MatiasBorg/PaginaMari/blob/main/Portada-Diseno-Industrial-Blog-2.png" class="portfolio-item">
             <h3>Proyecto 1</h3>
             <p>Descripción breve del proyecto 1.</p>
         </a>
